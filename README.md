@@ -1,10 +1,5 @@
 ### Hi there 👋 My name is Imaze Enabulele - Delighted to meet you!
 
-<!--
-**Maze2022/Maze2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently interested in DevOps Cloud Engineering
 - 🌱 I’m currently learning AWS, Terraform, Python, Docker and Kubernetes
 - 👯 I’m looking to collaborate with anyone who loves DevOps like I do
