@@ -33,7 +33,11 @@ Find out more about me & feel free to connect with me here:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Creation of a Highly Available 2-Tier Architecture using Terraform Cloud CI/CD](https://levelup.gitconnected.com/creation-of-a-highly-available-2-tier-architecture-using-terraform-cloud-ci-cd-4ae7d8f9f783?source=rss-e9c87182aa90------2)
+- [Creating a custom EC2 module using Terraform](https://aws.plainenglish.io/creating-a-custom-ec2-module-using-terraform-59c9896c2df2?source=rss-e9c87182aa90------2)
+- [Deploying an ECS Cluster with a Docker image Using Terraform](https://aws.plainenglish.io/deploying-an-ecs-cluster-with-a-docker-image-using-terraform-32c2dc69863e?source=rss-e9c87182aa90------2)
+- [Terraform: Deploying a 2-Tier Architecture](https://levelup.gitconnected.com/terraform-deploying-a-2-tier-architecture-5d26ae6e3f73?source=rss-e9c87182aa90------2)
+- [Kubernetes: Creating Deployments using CLI and YAML](https://levelup.gitconnected.com/kubernetes-creating-deployments-using-cli-and-yaml-f50c6e84c625?source=rss-e9c87182aa90------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Maze2022&count_private=true&show_icons=true&include_all_commits=true)
