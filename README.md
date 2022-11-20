@@ -13,7 +13,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-<ENTER YOUR NAME>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<ENTER YOUR LINKEDIN URL>)](<ENTER YOUR LINKEDIN URL>)
-[![Medium Badge](https://img.shields.io/badge/<ENTER YOUR NAME>-12100E?style=flat-square&logo=medium&logoColor=white&link=<ENTER YOUR MEDIUM URL>)](<ENTER YOUR MEDIUM URL>)
+[![Medium Badge](https://img.shields.io/badge/Imaze Enabulele-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@imaze.enabulele)](https://medium.com/@imaze.enabulele)
 [![Gmail Badge](https://img.shields.io/badge/-imaze.enabulele@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imaze.enabulele@gmail.com)](mailto:imaze.enabulele@gmail.com)
 
 ## ⚡ Technologies
