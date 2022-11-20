@@ -12,8 +12,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-<Imaze Enabulele>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/imaze-enabulele)](https://www.linkedin.com/in/imaze-enabulele)
-[![Medium Badge](https://img.shields.io/badge/<Imaze Enabulele>-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@imaze.enabulele>)](https://medium.com/@imaze.enabulele)
+[![Linkedin Badge](https://img.shields.io/badge/-Imaze Enabulele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/imaze-enabulele)](https://www.linkedin.com/in/imaze-enabulele)
+[![Medium Badge](https://img.shields.io/badge/Imaze Enabulele-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@imaze.enabulele)](https://medium.com/@imaze.enabulele)
 [![Gmail Badge](https://img.shields.io/badge/-imaze.enabulele@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imaze.enabulele@gmail.com)](mailto:<imaze.enabulele@gmail.com)
 
 ## ⚡ Technologies
