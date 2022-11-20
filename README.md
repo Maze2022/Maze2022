@@ -7,4 +7,3 @@
 - ⚡ Fun fact: I love taking pictures when I can. There's something magical about capturing moments✨ I love
      travelling. Wish I could get around to do it more. Waitng to get my private jet I guess✈️ More importantly, 
      I totally love to see people shine and succeed at whatever they are aiming for😀
--->
