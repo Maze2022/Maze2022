@@ -35,8 +35,8 @@ Find out more about me & feel free to connect with me here:
 <!-- BLOG-POST-LIST:START -->
 - [Deploying an EKS Cluster with Terraform Cloud](https://levelup.gitconnected.com/deploying-an-eks-cluster-with-terraform-cloud-63a2bcdccdf5?source=rss-e9c87182aa90------2)
 - [Creation of a Highly Available 2-Tier Architecture using Terraform Cloud](https://levelup.gitconnected.com/creation-of-a-highly-available-2-tier-architecture-using-terraform-cloud-ci-cd-4ae7d8f9f783?source=rss-e9c87182aa90------2)
-- [Creating a custom EC2 module using Terraform](https://aws.plainenglish.io/creating-a-custom-ec2-module-using-terraform-59c9896c2df2?source=rss-e9c87182aa90------2)
-- [Deploying an ECS Cluster with a Docker image Using Terraform](https://aws.plainenglish.io/deploying-an-ecs-cluster-with-a-docker-image-using-terraform-32c2dc69863e?source=rss-e9c87182aa90------2)
+- [Creating a custom EC2 module using Terraform](https://medium.com/@imaze.enabulele/creating-a-custom-ec2-module-using-terraform-59c9896c2df2?source=rss-e9c87182aa90------2)
+- [Deploying an ECS Cluster with a Docker image Using Terraform](https://medium.com/@imaze.enabulele/deploying-an-ecs-cluster-with-a-docker-image-using-terraform-32c2dc69863e?source=rss-e9c87182aa90------2)
 - [Terraform: Deploying a 2-Tier Architecture](https://levelup.gitconnected.com/terraform-deploying-a-2-tier-architecture-5d26ae6e3f73?source=rss-e9c87182aa90------2)
 <!-- BLOG-POST-LIST:END -->
 
