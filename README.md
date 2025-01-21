@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Imaze Enabulele - Delighted to meet you!
 
 - 🔭 I’m currently interested in DevOps Cloud Engineering
-- 🌱 I’m currently learning AWS, Terraform, Python, Docker and Kubernetes
+- 🌱 I’m proficient in AWS, Terraform, Python, Docker and Kubernetes
 - 👯 I’m looking to collaborate with anyone who loves DevOps like I do
 - 📫 How to reach me: imaze.enabulele@gmail.com
 - ⚡ Fun fact: I love taking pictures when I can. There's something magical about capturing moments✨ I love
